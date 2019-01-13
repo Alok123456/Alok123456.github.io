@@ -1,0 +1,92 @@
+[
+    {
+        "QnID": 1,
+        "question": "What is the difference between let and var?",
+        "options": [
+            "Either one can re-declared",
+            "'let' supports block scope",
+            "let supports hoisting"
+        ]
+    },
+    {
+        "QnID": 2,
+        "question": "AOT is more efficient of JIT below are more efficient",
+        "options": [
+            "AOT is more efficient",
+            "JIT is more efficient",
+            "None"
+        ]
+    },
+    {
+        "QnID": 3,
+        "question": "Observable works on which pattern?",
+        "options": [
+            "Observable pattern",
+            "Promise pattern",
+            "Singleton Pattern"
+        ]
+    },
+    {
+        "QnID": 4,
+        "question": "Javascript is _________ language?",
+        "options": [
+            "Application",
+            "Scripting",
+            "Programming"
+        ]
+    },
+    {
+        "QnID": 5,
+        "question": "JavaScript is designed for following purpose ?",
+        "options": [
+            "To add interactivity to HTML Pages.",
+            "To Style HTML Pages",
+            "To Perform Server Side Scripting Opertion"
+        ]
+    },
+    {
+        "QnID": 6,
+        "question": "JavaScript is an ________ language.",
+        "options": [
+            "compiled",
+            "interpreted",
+            "None of these"
+        ]
+    },
+    {
+        "QnID": 7,
+        "question": "JavaScript is ______ Side Scripting Language.",
+        "options": [
+            "Server",
+            "Browser",
+            "ISP"
+        ]
+    },
+    {
+        "QnID": 8,
+        "question": "JavaScript Code is written inside file having extension __________.",
+        "options": [
+            ".jvs",
+            ".javascript",
+            ".js"
+        ]
+    },
+    {
+        "QnID": 9,
+        "question": "Why JavaScript is called as Lightweight Programming Language ?",
+        "options": [
+            "because we can add programming functionality inside JS",
+            "because JS is available free of cost.",
+            "because JS can provide programming functionality inside but up to certain extend."
+        ]
+    },
+    {
+        "QnID": 10,
+        "question": "Local Browser used for validations on the Web Pages uses __________.",
+        "options": [
+            "CSS",
+            "HTML",
+            "JS"
+        ]
+    }
+]
