@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import {HttpClient} from '@angular/common/http';
-import {IQuestionsList}  from '../Interface/questionsListInterface';
+import {IQuestionsList} from '../Interface/questionsListInterface';
 import {Observable} from 'rxjs';
 @Injectable({
   providedIn: 'root'
@@ -8,7 +8,7 @@ import {Observable} from 'rxjs';
 export class QuizService {
 //------------------properties-----------
 readonly rootUrl = 'http://localhost:2890';
-private _url: string = "/assets/data/questionsList.json";
+public _url: string = "/assets/data/questionsList.json";
 private _urlAns: string = "/assets/data/answersList.json";
 qns: any[];
 seconds: number;
